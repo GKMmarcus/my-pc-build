@@ -19,5 +19,14 @@ Operating System: Microsoft Windows 10 Home OEM - DVD 64-bit
 
 # Future Upgrades
 
+- Upgrading processor to support Windows 11 compatibility
 
+- Upgrading grapics card to the Geforce RTX Series to boost high-end games like Marvel Rivals or Warzone
 
+# Links
+
+I have provided the website I used to built my PC and schematic used for my motherboard
+
+My Current Built: [PC List](https://pcpartpicker.com/list/QWCDgn)
+
+Website: [PCPartPicker](https://pcpartpicker.com/)
